@@ -1,0 +1,8 @@
+{
+    "baseUrl":"https://www.saucedemo.com/",
+    "ignoreTestFiles":["**/1-getting-started/*", "**/2-advanced-examples/*", "**/13-M_As'ad_Prabowo/*"],
+    "viewportHeight": 764,
+    "viewportWidth": 1024,
+    "chromeWebSecurity": false
+     
+}
